@@ -27,7 +27,7 @@ import bg10 from './sprites/background/10.png';
 
 // The contact deployment address in Etherium blockchain
 // win-10-workstation-ganache-contract-address
-const CONTRACT_ADDRESS = '0xc85B8eF362b843D306Eea1dD4568E61031b41d0d'
+const CONTRACT_ADDRESS = '0xB0491FB329C6D6eeDAb4b7300417d07FD82b367a'
 // project.sol contract address ganache
 // const CONTRACT_ADDRESS = "0x8B2d7e694398f820E038383B68341f737040bA42";
 
